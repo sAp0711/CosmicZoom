@@ -2,6 +2,9 @@
 ## Overview
 The **Cosmic Zoom** is a web application designed to allow users to explore NASA’s high-resolution image datasets, ranging from gigapixel to terapixel scale. The app enables interactive zooming and panning, and labelling of known features. By providing an intuitive interface and adaptive image streaming, the platform makes vast space datasets accessible to researchers, educators, and the general public.
 
+# THE CODE HAS BEEN ADDED IN A NEW BRANCH 
+# PLEASE CHECK THE BRANCH
+
 ## Features
 - **Multi-Resolution Image Streaming**: Tile-based loading allows smooth zooming and panning without downloading entire massive images.  
 - **Search and Navigation**: Users can find features using coordinates, feature names.
